@@ -1,0 +1,3 @@
+export enum LocationType { RESTAURANT = 'RESTAURANT', SPOT = 'SPOT', OTHER = 'OTHER' }
+export interface Note { id: string; name: string; address: string; category: LocationType; summary: string; imageUrl?: string; gallery: string[]; mapsUrl: string; isVisited: boolean; visitDate?: string; userReview?: string; createdAt: number; }
+export interface GeminiExtractionResult { name: string; address: string; category: string; summary: string; }

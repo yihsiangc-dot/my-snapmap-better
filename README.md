@@ -1,7 +1,8 @@
 # SnapMap Diary
 
-## 如何在其他平台執行：
-1. 將所有檔案上傳到 GitHub。
-2. 在 Vercel 或 Netlify 連結此倉庫。
-3. **重要**：在環境變數設定 `API_KEY`。
-4. 或者，直接開啟 index.html 並在介面中手動輸入金鑰。
+這是一個基於 AI 的美食與景點筆記應用。
+
+## 部署方式
+1. 將此資料夾內的所有檔案上傳至您的 GitHub 儲存庫。
+2. 在 Vercel 或 Netlify 連結該儲存庫。
+3. 無需任何 Build Command，直接發佈即可。
