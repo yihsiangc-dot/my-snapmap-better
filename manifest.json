@@ -1,1 +1,9 @@
-{ "name": "SnapMap Diary", "short_name": "SnapMap", "start_url": ".", "display": "standalone" }
+{
+  "short_name": "SnapMap",
+  "name": "SnapMap Diary - 美食景點筆記",
+  "icons": [{ "src": "https://cdn-icons-png.flaticon.com/512/854/854878.png", "sizes": "512x512", "type": "image/png" }],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4f46e5",
+  "background_color": "#ffffff"
+}
